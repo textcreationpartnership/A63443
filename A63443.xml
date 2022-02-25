@@ -1,0 +1,129 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True and perfect relation of the engagement that happened between His Majesties ship the King's-fisher, Cap. Francis Wheeler, Comr. and the Golden Rose of Argiers the 4th. of October 1681 fitted from thence by the people of Sally, mounted with 22. guns, and 22. petereroes : wherein the particulars of the engagement, and taking of the said ship, as it was communicated in a letter, dated the 6th. of October last, from Malaga road, to the Secretary of the Admiralty, are as followeth.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63443</idno>
+            <idno type="STC">Wing T2553A</idno>
+            <idno type="STC">ESTC R21352</idno>
+            <idno type="EEBO-CITATION">12360465</idno>
+            <idno type="OCLC">ocm 12360465</idno>
+            <idno type="VID">60215</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63443)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60215)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 900:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True and perfect relation of the engagement that happened between His Majesties ship the King's-fisher, Cap. Francis Wheeler, Comr. and the Golden Rose of Argiers the 4th. of October 1681 fitted from thence by the people of Sally, mounted with 22. guns, and 22. petereroes : wherein the particulars of the engagement, and taking of the said ship, as it was communicated in a letter, dated the 6th. of October last, from Malaga road, to the Secretary of the Admiralty, are as followeth.</title>
+                  <author>Wheeler, Francis, Sir, 1656?-1694.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Daniel Slater, and sold by Randie Taylor ...,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Broadside.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Naval battles --  England.</term>
+               <term>Great Britain --  History, Naval.</term>
+               <term>Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:60215:1" rendition="simple:additions"/>
+            <head>A True and Perfect RELATION OF THE ENGAGEMENT That happened between His Majeſties Ship the KING's-FISHER, <hi>Cap, Francis Wheeler. Com<hi rend="sup">r.</hi>
+               </hi> AND THE GOLDEN ROSE OF ARGIERS, The <hi>4th.</hi> of <hi>October</hi> 1681. Fitted from thence by the People of <hi>SALLY,</hi> Mounted with 22. Guns, and 22. Petereroes; wherein the Particulars of the Engagement, and taking of the ſaid Ship, as it was Communicated in a Letter, dated the <hi>6th.</hi> of <hi>October</hi> laſt, from <hi>Malaga</hi> Road, to the Secre<g ref="char:EOLhyphen"/>tary of the Admiralty, are as followeth.</head>
+            <p>AFter I had <hi>Carreen'd</hi> and fitted my Ship at <hi>Gibraltar,</hi> in Purſuance of <hi>Admiral Herbert</hi>'s Orders, laſt <hi>Friday</hi> the <hi>30th.</hi> of <hi>September,</hi> We went into the <hi>Gut</hi> to Cruiſe, between <hi>Gibraltar</hi> and <hi>Sutta,</hi> on <hi>Tueſ<g ref="char:EOLhyphen"/>day</hi> the <hi>4th.</hi> inſtant, being <hi>N. E.</hi> by <hi>E.</hi> from <hi>Gibraltar</hi> 10. Leagues off, ſtanding to the <hi>S.</hi> ward, the Wind <hi>Weſterly;</hi> We happened to ſtand ſtem for ſtem with the <hi>Golden Roſe,</hi> fitted out of <hi>Argiers,</hi> (but it ſeems at the Charge of ſome People at <hi>Sally,</hi>) Mounted with 22. Guns, and 20. Petere<g ref="char:EOLhyphen"/>roes; As ſoon as we made what they were, we gave chace upon a Wind, to the <hi>N.</hi> ward, and in leſs then one hour got into her Wake, and within Muſquet Shot, at which time unluckily our Fore-top-maſt came by the Board, which brought down the Main-top-gallant-maſt; when he out-reached us, but ſeeing a Ship under the <hi>Spaniſh Shoar,</hi> he put aſtays, but the Ship refuſing it, he put a way afore the Wind. When we had cleared our ſelves of our Fore-top-ſail, and got our Main-top-gallant-ſail on our Fore-top-maſt-Stump, we had him ſo well under our Lee, that he could not clap by with<g ref="char:EOLhyphen"/>out
+<pb n="2" facs="tcp:60215:2"/>out hazard of being run down by us; We bore away, and Out-Sail'd him, and with one of our Chaſe-Guns, Shot down his Fore-maſt, and preſently got Aboard fair along his ſide; but for want of his Rigging, my Bow-ſprit could not get any hold, and being before the Wind, though our Courſes were hawled up, and the Main-top-fail lowred down to the Slings, yet we could not keep a Stern, and miſt entring my Men; We got Aboard twice after very well forward, but by the ſame reaſon could not keep faſt; The fourth time we got up our Grapples on our Star-board-ſide, and intended to be faſt on his Lar-board bow, but juſt as we were coming upon his Quarter, he skilfully put his Helm hard a Star-board, and had like to have been Thwart our Hawſer, which we prevented by quick working, and got very well on his other ſide; But his Sails being all Torn, We could not come to make faſt a Hawſer to his Main-ſhrouds, but upon his falling off, We brought our Star-board-ſide, to bear and cut down his Main, and Mizon Maſts; Upon which he yielded.</p>
+            <p>Upon my Lieutenants going on Board, they found five Foot Water in hold, occaſioned by ſeven Shot under Water, of which two were double-head, all Unplugged, the Pumps-Shot in peices, and before they could get the Boat out of the way to Bayl, the Water was within two Foot of the Gun-Deck: When the Water began to come in at the Ports, ſeveral of the Port-Lids being Shot away, and there being a great Sea, for want of Maſts, She rowled ſo extreamly, as contributed much to her loſs, though they got Her afore the Wind with all the dilligence poſſible; we got Her in a Towe, and by that time we had Her along our Quarter to ſave the Men; She went down Head formoſt, with abundance of Wounded Moors who were in the great Cabbin, Steerage between Deck, and in hold, with two of my own Men who ſtaid too long below to Plunder. The main reaſon of Her loſs was occa<g ref="char:EOLhyphen"/>ſioned by the Moors, who being ſo terribly frighted, did not ſtop the ſhot-holes; and although our People did it as well as the ſhortneſs of the time would permit, yet 'twas then too late, and 'tis not unlikely but that they miſt find<g ref="char:EOLhyphen"/>ing of ſome.</p>
+            <p>Of our Men there were two Kill'd, three Wounded, and two Drowned. The ſmallneſs of the loſs makes it reaſonable to judge they did not fight very well; but this I am certain, that 'twas great courage in them to be ſo ſtub<g ref="char:EOLhyphen"/>born as not to yeild, but to venture to take our Broad-ſide four times, ſo near as our low Guns touched his Ship-ſide, Loaded with Round and Double-ſhot, with thirty Musqueteers playing upon them, beſides abundance of Shot ſent them before, I really judge never beyond Piſtol-ſhot.</p>
+            <p>'Twas near this place She yielded, ſo that it is not out of my way to come in to get up a new Top-Maſt, Fiſh our Fore-Yard, which is dangerouſly Wound<g ref="char:EOLhyphen"/>ed, and knot and fit our Rigging, and mend our Sails; as alſo in our way fill ſome Cask with Water, which will all be performed by to morrow night, and then to Cruiſe with our clean Ship, who we find Sails well large, and pretty well by. This Ship had when ſhe came out of <hi>Argiers</hi> near 150 Men, whereof eight Chriſtians and three Renegadoes, of which not above one half are to be found, and all of them we ſaved by Swimming, and our Boat; 28 are wounded, and a good part of them very dangerous; We began to fire our Chace-Guns near eight a Clock, Boarded Her the firſt time near ten, and Shee yielded at two, and Sunk at three a Clock, or paſt.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>Daniel Slater,</hi> and ſold by <hi>Randle Taylor</hi> near <hi>Stationers Hall,</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
